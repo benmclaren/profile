@@ -4,34 +4,6 @@
   border: 0;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 body {
   padding: 0;
   margin: 0px;
@@ -78,6 +50,7 @@ img {
 
 .description {
   margin-bottom: 32px;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .btn {
@@ -92,6 +65,7 @@ img {
 
 .btn:hover {
   opacity: 0.2;
+  transition: 0.2s;
 }
 
 li {
@@ -101,6 +75,7 @@ li {
 
 li:hover {
   opacity: 0.5;
+  transition: 0.2s;
 }
 
 li:nth-child(3) {
